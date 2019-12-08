@@ -1,14 +1,14 @@
 # Student-Portal-using-Data-structures
-cd mkdir Attd
+mkdir Attd
 
-cd mkdir Faculty
+mkdir Faculty
 
-cd mkdir Marks
+mkdir Marks
 
-cd mkdir StdList
+mkdir StdList
 
-cd mkdir Student
+mkdir Student
 
-cd mkdir Sub
+mkdir Sub
 
 python3 portal.py
