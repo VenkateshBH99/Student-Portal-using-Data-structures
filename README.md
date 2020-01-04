@@ -11,4 +11,4 @@ mkdir Student
 
 mkdir Sub
 
-python3 portal.py
+python portal.py
